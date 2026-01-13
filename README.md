@@ -1,4 +1,3 @@
-```markdown
 # Hands-On-Learning-LangChain
 
 # 🚀 动手学 LangChain
@@ -194,4 +193,3 @@ pip install asyncio aiohttp
 ---
 
 **现在，打开你的编辑器，开始动手吧！**
-```
