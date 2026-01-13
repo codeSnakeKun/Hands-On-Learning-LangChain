@@ -15,8 +15,6 @@
 
 **从核心组件到高级应用，全面掌握 LangChain 实战技能**
 
-[![在线阅读](https://img.shields.io/badge/在线阅读-Online_Reading-ff69b4?style=for-the-badge&logo=bookstack)](https://github.com/codeSnakeKun/Hands-On-Learning-LangChain/blob/main/docs/chapter1/%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6--%E6%99%BA%E8%83%BD%E4%BD%93%E5%AE%9E%E8%B7%B5.md)
-[![开始学习](https://img.shields.io/badge/🚀-开始学习-orange?style=for-the-badge&logo=rocket)](https://github.com/codeSnakeKun/Hands-On-Learning-LangChain/blob/main/docs/chapter1/%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6--%E6%99%BA%E8%83%BD%E4%BD%93%E5%AE%9E%E8%B7%B5.md)
 
 </div>
 
