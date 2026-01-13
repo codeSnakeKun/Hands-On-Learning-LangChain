@@ -1,6 +1,8 @@
-<p align="center">
-   <b>🚀 Hands-On-Learning-LangChain</b>
-</p>
+<div align="center">
+
+# 🚀 Hands-On-Learning-LangChain
+
+</div>
 <p align="center">
   <b>手把手带你实践 LangChain 官方文档：从核心组件到高级用法</b>
 </p>
