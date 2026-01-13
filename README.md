@@ -49,29 +49,8 @@ pip install langchain-chroma  # 向量数据库
 2. 注册账号并登录
 3. 在控制台中创建 API Key
 
-#### 安装 DeepSeek SDK
-```bash
-# 安装 DeepSeek 官方 SDK
-pip install deepseek-api
 
-# 或者使用 OpenAI 兼容方式（推荐）
-pip install openai
-```
-
-#### 设置环境变量
-```bash
-# Linux/Mac
-export DEEPSEEK_API_KEY="你的API密钥"
-export OPENAI_API_KEY="你的API密钥"  # 如果使用OpenAI兼容方式
-export OPENAI_API_BASE="https://api.deepseek.com"  # DeepSeek API地址
-
-# Windows
-set DEEPSEEK_API_KEY=你的API密钥
-set OPENAI_API_KEY=你的API密钥
-set OPENAI_API_BASE=https://api.deepseek.com
-```
-
-### 3. 创建配置文件（可选）
+### 3. 创建配置文件
 
 在项目根目录创建 `.env` 文件：
 
